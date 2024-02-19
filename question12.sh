@@ -1,4 +1,4 @@
 git checkout branch2
-git restore .
+git stash pop
 git add .
 git commit -m "Restore things"

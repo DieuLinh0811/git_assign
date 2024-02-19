@@ -1,2 +1,2 @@
-git fetch update1
+git fetch --all
 git checkout update1
