@@ -1,2 +1,2 @@
-git add .
-git commit -am "Added all files"
+git add -u
+git commit -m "Added all files"
